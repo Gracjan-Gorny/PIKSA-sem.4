@@ -1,0 +1,78 @@
+[ {
+  "id" : 1,
+  "title" : "Projekt",
+  "year" : 2024,
+  "author" : "Gracjan 113787",
+  "category" : "PIKSA",
+  "content" : "Przykładowa zawartość dokumentu"
+}, {
+  "id" : 2,
+  "title" : "Badania nad AI",
+  "year" : 2023,
+  "author" : "Anna 112233",
+  "category" : "Nauka",
+  "content" : "Analiza i rozwój algorytmów sztucznej inteligencji"
+}, {
+  "id" : 3,
+  "title" : "Podstawy matematyki",
+  "year" : 2022,
+  "author" : "Jan 114455",
+  "category" : "Edukacja",
+  "content" : "Podstawowe pojęcia i twierdzenia matematyczne"
+}, {
+  "id" : 4,
+  "title" : "Historia sztuki",
+  "year" : 2021,
+  "author" : "Ewa 223344",
+  "category" : "Kultura",
+  "content" : "Przegląd najważniejszych okresów i stylów w sztuce"
+}, {
+  "id" : 5,
+  "title" : "Kurs języka angielskiego",
+  "year" : 2023,
+  "author" : "Karol 334455",
+  "category" : "Języki",
+  "content" : "Materiały do nauki języka angielskiego na poziomie zaawansowanym"
+}, {
+  "id" : 6,
+  "title" : "Przewodnik po Pythonie",
+  "year" : 2024,
+  "author" : "Tomasz 445566",
+  "category" : "Programowanie",
+  "content" : "Kompletny przewodnik po języku programowania Python"
+}, {
+  "id" : 7,
+  "title" : "Wstęp do biologii",
+  "year" : 2023,
+  "author" : "Magda 556677",
+  "category" : "Nauka",
+  "content" : "Podstawowe zagadnienia z zakresu biologii"
+}, {
+  "id" : 8,
+  "title" : "Techniki prezentacji",
+  "year" : 2022,
+  "author" : "Piotr 667788",
+  "category" : "Biznes",
+  "content" : "Efektywne metody przygotowywania i prowadzenia prezentacji"
+}, {
+  "id" : 9,
+  "title" : "Filozofia współczesna",
+  "year" : 2021,
+  "author" : "Maria 778899",
+  "category" : "Filozofia",
+  "content" : "Główne nurty i myśliciele filozofii współczesnej"
+}, {
+  "id" : 10,
+  "title" : "Nowoczesna fizyka",
+  "year" : 2024,
+  "author" : "Adam 889900",
+  "category" : "Nauka",
+  "content" : "Nowe odkrycia i teorie we współczesnej fizyce"
+}, {
+  "id" : 11,
+  "title" : "123",
+  "year" : 123,
+  "author" : "321",
+  "category" : "3213",
+  "content" : "12312"
+} ]
